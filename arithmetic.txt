@@ -1,0 +1,5 @@
+exponents: 4 ** 4 ( 4 to the power of 4 )
+
+modulus (get remainder duh): 10 % 3
+
+the rest of the operators are standard
